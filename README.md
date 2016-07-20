@@ -1,2 +1,2 @@
 # dev-config
-Configuration Files Examples
+Examples of Configuration Files
